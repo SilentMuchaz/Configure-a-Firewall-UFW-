@@ -72,5 +72,5 @@ These commands support reviewing firewall activity and investigating network acc
 ## Technical documentation
 
 - [Firewall configuration case study (Markdown)](UFW-Firewall-Case-Study.md)
-- [Firewall configuration case study (PDF)](reports/01-ufw-firewall-case-study.pdf)
-- [Configuration notes (PDF)](lab-notes/Configuration-Steps.pdf)
+- [Firewall configuration case study (PDF)](01-ufw-firewall-case-study.pdf)
+- [Configuration notes (PDF)](Configuration-Steps.pdf)
