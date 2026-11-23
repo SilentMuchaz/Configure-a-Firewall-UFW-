@@ -79,4 +79,4 @@ The project records a UFW host-firewall configuration and testing workflow for U
 ## Supporting artifacts
 
 - [Configuration screenshots and connection checks](evidence/README.md)
-- [Configuration notes](lab-notes/Configuration-Steps.pdf)
+- [Configuration notes](Configuration-Steps.pdf)
