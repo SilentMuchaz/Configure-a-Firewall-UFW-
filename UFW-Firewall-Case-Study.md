@@ -76,7 +76,3 @@ The guide documents `sudo ufw logging on` and `sudo tail -f /var/log/ufw.log` fo
 
 The project records a UFW host-firewall configuration and testing workflow for Ubuntu, supported by seven linked screenshots. The available materials demonstrate the configuration approach and the planned validation methods, but do not establish a fully verified final security posture. Adding exported status output, local screenshots, and positive/negative connection results would strengthen the evidence without changing the underlying lab.
 
-## Supporting artifacts
-
-- [Configuration screenshots and connection checks](evidence/README.md)
-- [Configuration notes](Configuration-Steps.pdf)
